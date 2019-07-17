@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1563257583 source:c:\users\samuel\documents\ufpb\lp1 - maritan\c++\datam\main.cpp
+	<iostream>
+	"DataM.h"
+
+1563328587 c:\users\samuel\documents\ufpb\lp1 - maritan\c++\datam\include\datam.h
+	<iostream>
+
+1563329368 source:c:\users\samuel\documents\ufpb\lp1 - maritan\c++\datam\src\datam.cpp
+	"DataM.h"
+	<iostream>
+	<string>
+

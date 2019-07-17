@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1563251089 source:c:\users\samuel\documents\ufpb\lp1 - maritan\c++\horario\src\horario.cpp
+	"Horario.h"
+	<iostream>
+
+1563249467 c:\users\samuel\documents\ufpb\lp1 - maritan\c++\horario\include\horario.h
+	<iostream>
+
+1563250880 source:c:\users\samuel\documents\ufpb\lp1 - maritan\c++\horario\main.cpp
+	<iostream>
+	"Horario.h"
+

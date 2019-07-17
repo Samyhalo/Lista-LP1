@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1563245997 source:c:\users\samuel\documents\ufpb\lp1 - maritan\c++\invoice\src\invoice.cpp
+	"Invoice.h"
+	<iostream>
+	<string>
+
+1563245997 c:\users\samuel\documents\ufpb\lp1 - maritan\c++\invoice\include\invoice.h
+	<iostream>
+
+1563246819 source:c:\users\samuel\documents\ufpb\lp1 - maritan\c++\invoice\main.cpp
+	<iostream>
+	"Invoice.h"
+

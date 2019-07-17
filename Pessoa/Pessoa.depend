@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1563240441 source:c:\users\samuel\documents\ufpb\lp1 - maritan\c++\pessoa\main.cpp
+	<iostream>
+	"Pessoa.h"
+
+1563239662 c:\users\samuel\documents\ufpb\lp1 - maritan\c++\pessoa\include\pessoa.h
+	<iostream>
+
+1563239591 source:c:\users\samuel\documents\ufpb\lp1 - maritan\c++\pessoa\src\pessoa.cpp
+	"Pessoa.h"
+	<iostream>
+	<string>
+
